@@ -1,0 +1,15 @@
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.exe.config
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.exe
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.pdb
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csproj.AssemblyReference.cache
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\App.g.cs
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF_MarkupCompile.cache
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF_MarkupCompile.lref
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\MainWindow.baml
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.g.resources
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.Properties.Resources.resources
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csproj.GenerateResource.cache
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csproj.CoreCompileInputs.cache
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.exe
+C:\Users\vlnote51\Desktop\Guilherme\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.pdb
