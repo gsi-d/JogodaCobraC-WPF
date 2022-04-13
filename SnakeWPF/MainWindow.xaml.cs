@@ -167,7 +167,7 @@ namespace SnakeWPF
                 GameArea.Children.Remove(snakeParts[0].UiElement);
                 snakeParts.RemoveAt(0);
             }
-            // Next up, we'll add a new element to the snake, which will be the (new) head  
+            // Next up, we'll add a new element to the snake, which will be the (new) head   git 
             // Therefore, we mark all existing parts as non-head (body) elements and then  
             // we make sure that they use the body brush  
             foreach (SnakePart snakePart in snakeParts)
